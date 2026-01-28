@@ -43,3 +43,8 @@ What I will improve tomorrow:
 Time spent: 2 hours
 
 Day-by-day learning notes are documented to track my understanding growth.
+
+## Day 10
+- Continued GitHub consistency
+- Practiced commits and repo management
+- Learning cybersecurity step by step
