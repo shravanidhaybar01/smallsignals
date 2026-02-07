@@ -53,3 +53,34 @@ Day-by-day learning notes are documented to track my understanding growth.
 ✔️ Stable  
 📌 Maintained for learning reference  
 🛑 No further daily commits planned
+
+## 🎯 Project Objective
+Build strong foundations in SOC operations, detection engineering, and incident analysis by documenting daily learning and hands-on labs.
+
+## 🧠 Skills Being Built
+- Log analysis  
+- SOC fundamentals  
+- SIEM concepts  
+- Incident detection  
+- Network traffic analysis  
+- Threat investigation  
+- Cybersecurity documentation  
+- GitHub workflow
+- 
+  ## 🛠 Tools & Platforms
+- TryHackMe  
+- GitHub  
+- Linux  
+- Basic SIEM concepts  
+- Windows Event Logs
+- 
+## 📂 Repository Structure
+daily_logs/ → daily learning logs  
+concepts/ → cybersecurity concepts  
+notes/ → theory notes  
+README.md → project overview  
+final_review.md → learning summary
+
+## 🚀 Career Vision
+Future SOC Analyst | Detection Engineer | Cybersecurity Researcher  
+Focused on building strong foundations for high-impact security roles.
